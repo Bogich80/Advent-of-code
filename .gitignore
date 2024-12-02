@@ -1,0 +1,4 @@
+### Git template
+/.idea
+.gitignore
+/.venv
