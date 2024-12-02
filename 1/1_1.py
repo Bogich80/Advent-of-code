@@ -2,7 +2,7 @@ import numpy as np
 import re
 import math
 
-data_file = open(r'C:\Users\Bogich\PycharmProjects\AdventOfCode\1\data_1.txt', 'r')
+data_file = open('data_1.txt', 'r')
 data_lines = np.array(data_file.readlines())
 first_column_data = []
 second_colum_data = []
